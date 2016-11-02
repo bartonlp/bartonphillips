@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+   <channel>
+      <title>Granby Ranch, Granby, Colorado, Weather Conditions</title>
+      <link>http://www.bartonphillips.com</link>
+      <description>Current conditions, and daily, monthly, and yearly summaries</description>
+      <language>en-us</language>
+      <pubDate>Sat, 31 Jan 2015 12:40:00 MST</pubDate>
+
+      <lastBuildDate>Sat, 31 Jan 2015 12:40:00 MST</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>weewx 2.6.1</generator>
+      <ttl>5.000000</ttl>
+      
+      <item>
+         <title>Weather Conditions at 01/31/2015 12:40:00 PM</title>
+         <link>http://www.bartonphillips.com</link>
+         <description>
+           Outside temperature: 0.6&#176;C; 
+           Barometer: 1010.6 mbar; 
+           Wind: 2 km/h from 270&#176;; 
+           Rain rate: 0.0 mm/hr; 
+           Inside temperature: 19.8&#176;C
+         </description>
+         <pubDate>Sat, 31 Jan 2015 12:40:00 MST</pubDate>
+	     <geo:lat>40.051</geo:lat>
+    	 <geo:long>-105.908</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Time:                01/31/2015 12:40:00 PM<br/>
+             Outside Temperature: 0.6&#176;C<br/>
+             Inside Temperature:  19.8&#176;C<br/>
+             Wind Chill:          0.6&#176;C<br/>
+             Heat Index:          0.6&#176;C<br/>
+             Dewpoint:            -2.5&#176;C<br/>
+             Humidity:            80%<br/>
+             Barometer:           1010.6 mbar<br/>
+             Wind:                2 km/h from 270&#176;<br/>
+             Rain Rate:           0.0 mm/hr<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Daily Weather Summary as of 01/31/2015 12:40:00 PM</title>
+         <link>http://www.bartonphillips.com</link>
+         <description>
+	        Min outside temperature: -3.9&#176;C at 06:50:11 AM;
+         	Max outside temperature: 0.6&#176;C at 12:39:43 PM;
+	        Min inside temperature:  17.7&#176;C at 07:00:03 AM;
+	        Max inside temperature:  20.9&#176;C at 12:00:03 AM;
+	        Min barometer:           1010.6 mbar at 12:32:03 PM;
+	        Max barometer:           1015.1 mbar at 12:01:03 AM;
+            Max wind :               8 km/h from 75&#176; at 12:08:11 PM;
+            Rain today:              0.5 mm
+         </description>
+         <pubDate>Sat, 31 Jan 2015 12:40:00 MST</pubDate>
+	     <geo:lat>40.051</geo:lat>
+    	 <geo:long>-105.908</geo:long>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Day:                     31 Jan 2015<br/>
+	         Min Outside Temperature: -3.9&#176;C at 06:50:11 AM<br/>
+	         Max Outside Temperature: 0.6&#176;C at 12:39:43 PM<br/>
+	         Min Inside Temperature:  17.7&#176;C at 07:00:03 AM<br/>
+	         Max Inside Temperature:  20.9&#176;C at 12:00:03 AM<br/>
+	         Min Barometer:           1010.6 mbar at 12:32:03 PM<br/>
+	         Max Barometer:           1015.1 mbar at 12:01:03 AM<br/>
+             Max Wind :               8 km/h from 75&#176; at 12:08:11 PM<br/>
+             Rain today:              0.5 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Monthly Weather Summary as of 01/31/2015 12:40:00 PM</title>
+         <link>http://www.bartonphillips.com/month.html</link>
+         <description>
+	        Min outside temperature: -25.9&#176;C at 01/22/2015 07:53:14 AM;
+         	Max outside temperature: 4.4&#176;C at 01/29/2015 02:00:00 PM;
+	        Min inside temperature:  16.3&#176;C at 01/23/2015 06:49:02 AM;
+	        Max inside temperature:  21.5&#176;C at 01/29/2015 07:18:01 PM;
+	        Min barometer:           1010.6 mbar at 01/31/2015 12:32:03 PM;
+	        Max barometer:           1035.2 mbar at 01/26/2015 10:15:00 AM;
+            Max wind :               26 km/h from 202&#176; at 01/17/2015 03:35:00 AM;
+            Rain total for month:    2.3 mm
+         </description>
+         <pubDate>Sat, 31 Jan 2015 12:40:00 MST</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Month:                   January 2015<br/>
+	         Max Outside Temperature: 4.4&#176;C at 01/29/2015 02:00:00 PM<br/>
+	         Min Outside Temperature: -25.9&#176;C at 01/22/2015 07:53:14 AM<br/>
+	         Max Inside Temperature:  21.5&#176;C at 01/29/2015 07:18:01 PM<br/>
+	         Min Inside Temperature:  16.3&#176;C at 01/23/2015 06:49:02 AM<br/>
+	         Min Barometer:           1010.6 mbar at 01/31/2015 12:32:03 PM<br/>
+	         Max Barometer:           1035.2 mbar at 01/26/2015 10:15:00 AM<br/>
+             Max Wind :               26 km/h from 202&#176; at 01/17/2015 03:35:00 AM<br/>
+             Rain total for month:    2.3 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+      <item>
+         <title>Yearly Weather Summary as of 01/31/2015 12:40:00 PM</title>
+         <link>http://www.bartonphillips.com/year.html</link>
+         <description>
+	        Min outside temperature: -25.9&#176;C at 01/22/2015 07:53:14 AM;
+         	Max outside temperature: 4.4&#176;C at 01/29/2015 02:00:00 PM;
+	        Min inside temperature:  16.3&#176;C at 01/23/2015 06:49:02 AM;
+	        Max inside temperature:  21.5&#176;C at 01/29/2015 07:18:01 PM;
+	        Min barometer:           1010.6 mbar at 01/31/2015 12:32:03 PM;
+	        Max barometer:           1035.2 mbar at 01/26/2015 10:15:00 AM;
+            Max wind :               26 km/h from 202&#176; at 01/17/2015 03:35:00 AM;
+            Rain total for year:     2.3 mm
+         </description>
+         <pubDate>Sat, 31 Jan 2015 12:40:00 MST</pubDate>
+ 		 <content:encoded><![CDATA[
+           <p>
+             Year:                    2015<br/>
+	         Max Outside Temperature: 4.4&#176;C at 01/29/2015 02:00:00 PM<br/>
+	         Min Outside Temperature: -25.9&#176;C at 01/22/2015 07:53:14 AM<br/>
+	         Max Inside Temperature:  21.5&#176;C at 01/29/2015 07:18:01 PM<br/>
+	         Min Inside Temperature:  16.3&#176;C at 01/23/2015 06:49:02 AM<br/>
+	         Min Barometer:           1010.6 mbar at 01/31/2015 12:32:03 PM<br/>
+	         Max Barometer:           1035.2 mbar at 01/26/2015 10:15:00 AM<br/>
+             Max Wind :               26 km/h from 202&#176; at 01/17/2015 03:35:00 AM<br/>
+             Rain total for year:     2.3 mm<br/>
+        </p>
+      ]]></content:encoded>
+      </item>
+
+   </channel>
+</rss>
+

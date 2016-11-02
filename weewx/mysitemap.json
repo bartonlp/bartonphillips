@@ -1,0 +1,23 @@
+{
+    "siteDomain": "bartonphillips.com/weewx",
+    "siteName": "Weewx",
+    "path": "/var/www/bartonphillips/weewx",
+    "className": "SiteClass",
+    "copyright": "2016 Barton L. Phillips",
+    "author": "Barton L. Phillips, mailto:bartonphillips@gmail.com",
+    "masterdb": "barton",
+    "dbinfo": {
+        "host": "localhost",
+        "user": "barton",
+        "password": "7098653",
+        "database": "bartonphillipsdotcom",
+        "engine": "mysqli"
+    },
+    "headFile": "/var/www/bartonphillipsdotcom/weewx/includes/head.i.php",
+    "bannerFile": "/var/www/bartonphillipsdotcom/weewx/includes/banner.i.php",
+    "footerFile": "/var/www/bartonphillipsdotcom/weewx/includes/footer.i.php",
+    "count": true,
+    "countMe": true,
+    "analysis": true,
+    "myUri": "bartonphillips.dyndns.org"
+}
