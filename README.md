@@ -1,4 +1,4 @@
-#Bartonphillips
+# Bartonphillips
 This is the gitHub site for bartonphillips.com (https://bartonlp.github.io/bartonphillips).  
 This is in the gh-pages branch in the github.com/bartonlp/bartonphillips repository.
 
