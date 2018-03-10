@@ -1,24 +1,27 @@
-/* 
- * CSS for the weewx Standard skin
- * $Id: weewx.css 2749 2014-11-29 18:15:24Z tkeffer $
+/* CSS for the weewx Standard skin
+ *
+ *  Copyright (c) 2015 Tom Keffer <tkeffer@gmail.com>
+ * 
+ *  See the file LICENSE.txt for your rights.
  */
   
 /* Global */
 
 body {
-    margin: 0;
     padding: 0;
     border: 0;
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 1rem;
+    font-size: 16px;
     background-color: #f2f2f7;
-    background-image: url('backgrounds/band.gif');
+    background-image: none;
+/*    background-image: url('backgrounds/band.gif');
     background-repeat: repeat;
-    background-attachment: scroll;
+    background-attachment: scroll; */
 }	
 
+input, select { font-size: 1rem; }
+
 #container {
-    margin: 0;
     padding: 0;
     border: 0;
 }
@@ -72,7 +75,7 @@ body {
 .stats_header  {
     background-color: #000000;
     color: #a8b8c8;
-    font-size: 1.2rem;
+    font-size: 14pt;
     font-weight: bolder;
 }
 
@@ -102,7 +105,7 @@ body {
 }
 
 #content .header {
-    font-size: 1.2rem;
+    font-size: 14pt;
     font-weight: bolder;
     color: #3d6c87;
     margin-bottom: 10px;
@@ -186,21 +189,6 @@ body {
     margin-top: 0;
 }
 
-#home-image {
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
-    margin: 3px;
-    padding: 3px;
-}
-#home-image img {
-    margin-left: auto;
-    margin-right: auto;
-    width: 90%;
-    margin: 3px;
-    padding: 3px;
-}
-
 /*
  * Navigation bar (week, month, etc.) at the bottom
  */
@@ -222,31 +210,48 @@ h2, h3, h4, h5, h6 {
     color: #3d6c87;
 }
 
-@media (min-width: 1024px) {
-  html {
-    font-size: 20px;
-  }
-  input, select {
-    font-size: 1rem;
-  }
-  img {
-    width: 50%;
-  }
+/*
+  The #hitCounter... are for the SiteClass::getCounterWigget() which can be at the bottom of the page.
+  #F5DEB3==rgb(245,222,179) is 'wheat' for the background
+  rgb(123, 16, 66) is a burgundy for the number
+*/  
+#hitCounter {
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        text-align: center;
 }
-@media (max-width: 700px) {
-  #stats_group {
-    float: none;
-    width: 100%;
-  }
-      
-  #content {
-    float: none;
-    width: 100%;
-  }
+#hitCountertbl {
+        font-size: 1em;
+        width: 0;
+        border: 8px ridge yellow;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #F5DEB3
 }
-/* BLP */
-#logo, #dummyimg {
-        width: 1px;
-        height: 1px;
+#hitCountertr {
+        width: 0;
+        border: 8px ridge yellow;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #F5DEB3
 }
-
+#hitCounterth {
+        color: rgb(123, 16, 66);
+}
+/* media layout */
+@media (min-width: 1776px) {
+        body {
+                font-size: 30px;
+        }
+}
+@media (max-width: 1200px) {
+        body {
+                font-size: 20px;
+        }
+}
+@media (max-width: 400px) {
+        body {
+                font-size: 16px;
+        }
+}

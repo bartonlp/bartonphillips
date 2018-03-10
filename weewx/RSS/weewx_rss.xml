@@ -3,131 +3,131 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
    <channel>
-      <title>828 Cayo Grande Ct., Newbury Park, CA, Weather Conditions</title>
+      <title>2701 Amhurst Blvd. New Bern, North Carolina, Weather Conditions</title>
       <link>http://www.bartonphillips.com</link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 02 Nov 2016 14:10:00 PDT</pubDate>
+      <pubDate>Sat, 10 Mar 2018 17:35:00 EST</pubDate>
 
-      <lastBuildDate>Wed, 02 Nov 2016 14:10:00 PDT</lastBuildDate>
+      <lastBuildDate>Sat, 10 Mar 2018 17:35:00 EST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-      <generator>weewx 3.1.0</generator>
+      <generator>weewx 3.7</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 02-Nov-2016 14:10</title>
+         <title>Weather Conditions at 03/10/18 17:35:00</title>
          <link>http://www.bartonphillips.com</link>
          <description>
-           Outside temperature: 78.1&#176;F; 
-           Barometer: 30.055 inHg; 
-           Wind: 7 mph from 0&#176;; 
+           Outside temperature: 60.2&#176;F; 
+           Barometer: 29.965 inHg; 
+           Wind: 0 mph from 96&#176;; 
            Rain rate: 0.00 in/hr; 
-           Inside temperature: 72.0&#176;F
+           Inside temperature: 74.2&#176;F
          </description>
-         <pubDate>Wed, 02 Nov 2016 14:10:00 PDT</pubDate>
-	     <geo:lat>34.190962</geo:lat>
-    	 <geo:long>-118.9564</geo:long>
+         <pubDate>Sat, 10 Mar 2018 17:35:00 EST</pubDate>
+	     <geo:lat>35.110966</geo:lat>
+    	 <geo:long>-77.092889</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                02-Nov-2016 14:10<br/>
-             Outside Temperature: 78.1&#176;F<br/>
-             Inside Temperature:  72.0&#176;F<br/>
-             Wind Chill:          78.1&#176;F<br/>
-             Heat Index:          78.1&#176;F<br/>
-             Dewpoint:            35.0&#176;F<br/>
-             Humidity:            21%<br/>
-             Barometer:           30.055 inHg<br/>
-             Wind:                7 mph from 0&#176;<br/>
+             Time:                03/10/18 17:35:00<br/>
+             Outside Temperature: 60.2&#176;F<br/>
+             Inside Temperature:  74.2&#176;F<br/>
+             Wind Chill:          60.3&#176;F<br/>
+             Heat Index:          60.3&#176;F<br/>
+             Dewpoint:            39.7&#176;F<br/>
+             Humidity:            47%<br/>
+             Barometer:           29.965 inHg<br/>
+             Wind:                0 mph from 96&#176;<br/>
              Rain Rate:           0.00 in/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 02-Nov-2016 14:10</title>
+         <title>Daily Weather Summary as of 03/10/18 17:35:00</title>
          <link>http://www.bartonphillips.com</link>
          <description>
-	        Min outside temperature: 45.1&#176;F at 04:14;
-         	Max outside temperature: 78.1&#176;F at 14:09;
-	        Min inside temperature:  60.7&#176;F at 07:33;
-	        Max inside temperature:  72.1&#176;F at 14:09;
-	        Min barometer:           30.053 inHg at 14:10;
-	        Max barometer:           30.141 inHg at 09:09;
-            Max wind :               25 mph from 72&#176; at 13:47;
-            Rain today:              0.01 in
+	        Min outside temperature: 33.6&#176;F at 05:18:40;
+         	Max outside temperature: 69.5&#176;F at 14:52:20;
+	        Min inside temperature:  68.6&#176;F at 04:45:56;
+	        Max inside temperature:  74.2&#176;F at 15:00:56;
+	        Min barometer:           29.930 inHg at 14:41:58;
+	        Max barometer:           30.089 inHg at 08:30:58;
+            Max wind :               13 mph from 245&#176; at 13:54:16;
+            Rain today:              0.00 in
          </description>
-         <pubDate>Wed, 02 Nov 2016 14:10:00 PDT</pubDate>
-	     <geo:lat>34.190962</geo:lat>
-    	 <geo:long>-118.9564</geo:long>
+         <pubDate>Sat, 10 Mar 2018 17:35:00 EST</pubDate>
+	     <geo:lat>35.110966</geo:lat>
+    	 <geo:long>-77.092889</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Day:                     02 Nov 2016<br/>
-	         Min Outside Temperature: 45.1&#176;F at 04:14<br/>
-	         Max Outside Temperature: 78.1&#176;F at 14:09<br/>
-	         Min Inside Temperature:  60.7&#176;F at 07:33<br/>
-	         Max Inside Temperature:  72.1&#176;F at 14:09<br/>
-	         Min Barometer:           30.053 inHg at 14:10<br/>
-	         Max Barometer:           30.141 inHg at 09:09<br/>
-             Max Wind :               25 mph from 72&#176; at 13:47<br/>
-             Rain today:              0.01 in<br/>
+             Day:                     10 Mar 2018<br/>
+	         Min Outside Temperature: 33.6&#176;F at 05:18:40<br/>
+	         Max Outside Temperature: 69.5&#176;F at 14:52:20<br/>
+	         Min Inside Temperature:  68.6&#176;F at 04:45:56<br/>
+	         Max Inside Temperature:  74.2&#176;F at 15:00:56<br/>
+	         Min Barometer:           29.930 inHg at 14:41:58<br/>
+	         Max Barometer:           30.089 inHg at 08:30:58<br/>
+             Max Wind :               13 mph from 245&#176; at 13:54:16<br/>
+             Rain today:              0.00 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 02-Nov-2016 14:10</title>
+         <title>Monthly Weather Summary as of 03/10/18 17:35:00</title>
          <link>http://www.bartonphillips.com/month.html</link>
          <description>
-	        Min outside temperature: 45.1&#176;F at 02-Nov-2016 04:14;
-         	Max outside temperature: 78.1&#176;F at 02-Nov-2016 14:09;
-	        Min inside temperature:  60.7&#176;F at 02-Nov-2016 07:33;
-	        Max inside temperature:  72.1&#176;F at 02-Nov-2016 14:09;
-	        Min barometer:           29.981 inHg at 01-Nov-2016 15:29;
-	        Max barometer:           30.141 inHg at 02-Nov-2016 09:09;
-            Max wind :               25 mph from 72&#176; at 02-Nov-2016 13:47;
-            Rain total for month:    0.01 in
+	        Min outside temperature: 26.0&#176;F at 03/09/18 06:53:46;
+         	Max outside temperature: 72.8&#176;F at 03/01/18 15:04:27;
+	        Min inside temperature:  68.0&#176;F at 03/05/18 04:35:57;
+	        Max inside temperature:  75.6&#176;F at 03/09/18 15:10:56;
+	        Min barometer:           29.586 inHg at 03/01/18 18:30:59;
+	        Max barometer:           30.180 inHg at 03/04/18 08:27:59;
+            Max wind :               29 mph from 286&#176; at 03/02/18 08:50:27;
+            Rain total for month:    0.91 in
          </description>
-         <pubDate>Wed, 02 Nov 2016 14:10:00 PDT</pubDate>
+         <pubDate>Sat, 10 Mar 2018 17:35:00 EST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
-             Month:                   November 2016<br/>
-	         Max Outside Temperature: 78.1&#176;F at 02-Nov-2016 14:09<br/>
-	         Min Outside Temperature: 45.1&#176;F at 02-Nov-2016 04:14<br/>
-	         Max Inside Temperature:  72.1&#176;F at 02-Nov-2016 14:09<br/>
-	         Min Inside Temperature:  60.7&#176;F at 02-Nov-2016 07:33<br/>
-	         Min Barometer:           29.981 inHg at 01-Nov-2016 15:29<br/>
-	         Max Barometer:           30.141 inHg at 02-Nov-2016 09:09<br/>
-             Max Wind :               25 mph from 72&#176; at 02-Nov-2016 13:47<br/>
-             Rain total for month:    0.01 in<br/>
+             Month:                   March 2018<br/>
+	         Max Outside Temperature: 72.8&#176;F at 03/01/18 15:04:27<br/>
+	         Min Outside Temperature: 26.0&#176;F at 03/09/18 06:53:46<br/>
+	         Max Inside Temperature:  75.6&#176;F at 03/09/18 15:10:56<br/>
+	         Min Inside Temperature:  68.0&#176;F at 03/05/18 04:35:57<br/>
+	         Min Barometer:           29.586 inHg at 03/01/18 18:30:59<br/>
+	         Max Barometer:           30.180 inHg at 03/04/18 08:27:59<br/>
+             Max Wind :               29 mph from 286&#176; at 03/02/18 08:50:27<br/>
+             Rain total for month:    0.91 in<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 02-Nov-2016 14:10</title>
+         <title>Yearly Weather Summary as of 03/10/18 17:35:00</title>
          <link>http://www.bartonphillips.com/year.html</link>
          <description>
-	        Min outside temperature: 28.7&#176;F at 02-Feb-2016 06:54;
-         	Max outside temperature: 103.4&#176;F at 26-Sep-2016 14:20;
-	        Min inside temperature:  54.9&#176;F at 02-Feb-2016 06:10;
-	        Max inside temperature:  83.4&#176;F at 08-Feb-2016 16:25;
-	        Min barometer:           29.601 inHg at 31-Jan-2016 13:57;
-	        Max barometer:           30.387 inHg at 03-Feb-2016 22:09;
-            Max wind :               39 mph from 77&#176; at 07-Feb-2016 18:22;
-            Rain total for year:     7.88 in
+	        Min outside temperature: 3.7&#176;F at 01/06/18 07:40:00;
+         	Max outside temperature: 85.1&#176;F at 02/25/18 13:08:02;
+	        Min inside temperature:  67.2&#176;F at 01/15/18 08:45:01;
+	        Max inside temperature:  76.5&#176;F at 02/15/18 15:23:00;
+	        Min barometer:           29.571 inHg at 01/04/18 02:23:03;
+	        Max barometer:           30.725 inHg at 01/26/18 10:16:59;
+            Max wind :               29 mph from 286&#176; at 03/02/18 08:50:27;
+            Rain total for year:     6.36 in
          </description>
-         <pubDate>Wed, 02 Nov 2016 14:10:00 PDT</pubDate>
+         <pubDate>Sat, 10 Mar 2018 17:35:00 EST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
-             Year:                    2016<br/>
-	         Max Outside Temperature: 103.4&#176;F at 26-Sep-2016 14:20<br/>
-	         Min Outside Temperature: 28.7&#176;F at 02-Feb-2016 06:54<br/>
-	         Max Inside Temperature:  83.4&#176;F at 08-Feb-2016 16:25<br/>
-	         Min Inside Temperature:  54.9&#176;F at 02-Feb-2016 06:10<br/>
-	         Min Barometer:           29.601 inHg at 31-Jan-2016 13:57<br/>
-	         Max Barometer:           30.387 inHg at 03-Feb-2016 22:09<br/>
-             Max Wind :               39 mph from 77&#176; at 07-Feb-2016 18:22<br/>
-             Rain total for year:     7.88 in<br/>
+             Year:                    2018<br/>
+	         Max Outside Temperature: 85.1&#176;F at 02/25/18 13:08:02<br/>
+	         Min Outside Temperature: 3.7&#176;F at 01/06/18 07:40:00<br/>
+	         Max Inside Temperature:  76.5&#176;F at 02/15/18 15:23:00<br/>
+	         Min Inside Temperature:  67.2&#176;F at 01/15/18 08:45:01<br/>
+	         Min Barometer:           29.571 inHg at 01/04/18 02:23:03<br/>
+	         Max Barometer:           30.725 inHg at 01/26/18 10:16:59<br/>
+             Max Wind :               29 mph from 286&#176; at 03/02/18 08:50:27<br/>
+             Rain total for year:     6.36 in<br/>
         </p>
       ]]></content:encoded>
       </item>
